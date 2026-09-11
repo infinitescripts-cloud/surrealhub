@@ -1,4 +1,3 @@
--- do not crack skidders
 -- Lua 5.3+ / Luau compatibility polyfills
 if not math.ldexp then math.ldexp = function(x, n) return x * 2 ^ n end end
 if not math.frexp then math.frexp = function(x)
