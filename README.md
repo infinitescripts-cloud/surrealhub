@@ -8,7 +8,7 @@
 
 [![Game](https://img.shields.io/badge/Game-Total%20Roblox%20Drama-orange?style=for-the-badge)](#)
 [![Mode](https://img.shields.io/badge/Mode-Camp%20Only-red?style=for-the-badge)](#)
-[![UI](https://img.shields.io/badge/UI-Luna%20Patched-5A82FF?style=for-the-badge)](https://github.com/Nebula-Softworks/Luna-Interface-Suite)
+[![UI](https://img.shields.io/badge/UI-Luna%20Interface%20Suite-5A82FF?style=for-the-badge)](https://github.com/Nebula-Softworks/Luna-Interface-Suite)
 [![Status](https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge)](#)
 
 </div>
@@ -21,10 +21,10 @@
 - [Features](#-features)
 - [Installation](#-installation)
 - [Stability](#-stability)
-- [Screenshots](#-screenshots)
 - [FAQ](#-faq)
 - [Usage Notes](#-usage-notes)
 - [Credits](#-credits)
+- [Support Nebula Softworks](#-support-nebula-softworks)
 
 ---
 
@@ -184,25 +184,12 @@ The UI keeps running. Nothing freezes. Nothing kicks you out mid-match.
 
 ---
 
-## 📸 Screenshots
-
-> *Coming soon — UI previews and feature demos.*
-
----
-
 ## ❓ FAQ
 
 <details>
 <summary><b>Does this work on Movies / Expedition / Practice?</b></summary>
 
 No. Surreal Hub is **Camp-only**. Movies, Expedition, and Practice are not supported and may break if you try to use it there.
-
-</details>
-
-<details>
-<summary><b>Why isn't there a custom skin changer?</b></summary>
-
-The custom skin builder was removed for stability reasons. It was the most fragile part of the script and broke often. The core Skins and Marshmallows dropdowns are gone too.
 
 </details>
 
@@ -224,16 +211,9 @@ Yes. Surreal Hub was developed and tested primarily on **Delta Mobile**. It work
 </details>
 
 <details>
-<summary><b>Can I make my own version?</b></summary>
-
-You can modify it for personal use. Just don't rebrand it and claim it's yours, and don't sell it. See [Usage Notes](#-usage-notes).
-
-</details>
-
-<details>
 <summary><b>Will this get me banned?</b></summary>
 
-Using any exploit carries risk. Surreal Hub is client-sided only for other features and doesn't touch server scripts. If your executor already bypasses Adonis,you won't get banned. I will be adding Adonis bypass soon for you guys who's executors don't bypass it ♥️. Total Roblox Drama uses Adonis Anti-cheat, use at your own discretion 
+Using any exploit carries risk. Surreal Hub is client-side only and doesn't touch server scripts, but Total Roblox Drama uses Adonis anti-cheat. Use at your own discretion.
 
 </details>
 
@@ -250,16 +230,78 @@ Using any exploit carries risk. Surreal Hub is client-sided only for other featu
 
 ## 🙏 Credits
 
-- **UI Framework**: [Luna Interface Suite](https://github.com/infinitescripts-cloud/Luna-Interface-Suite) — patched for full TextBox input support
-- **External Utilities**: Genesis Sniper, Infinite Yield, Energize R6 (loaded as separate scripts)
-- **Built by**: Surreal Hub
+**Surreal Hub** could not exist without the incredible work of others.
+
+### 🌙 Luna Interface Suite
+
+The UI library that powers Surreal Hub was created by **[Nebula Softworks](https://github.com/Nebula-Softworks)** — a small team dedicated to building free, open-source interface tooling for the Roblox scripting community [reference:0].
+
+| Resource | Link |
+|---|---|
+| **Official Repository** | [Nebula-Softworks/Luna-Interface-Suite](https://github.com/Nebula-Softworks/Luna-Interface-Suite) |
+| **Documentation** | [Documentation.md](https://github.com/Nebula-Softworks/Luna-Interface-Suite/blob/master/Documentation.md) |
+| **Successor Project** | [Starlight Interface Suite](https://github.com/Nebula-Softworks/Starlight-Interface-Suite) |
+| **Official Website** | [nebulasoftworks.framer.ai](https://nebulasoftworks.framer.ai/) |
+
+> **Note:** Luna was officially discontinued in April 2025 and is being replaced by **[Starlight](https://github.com/Nebula-Softworks/Starlight-Interface-Suite)**. It remains fully usable and Nebula Softworks may still push occasional maintenance updates [reference:1].
+
+### 🔧 External Utilities
+
+The following tools are loaded as separate scripts when you click their buttons:
+
+- **Genesis Sniper** — by [GenesisFE](https://github.com/GenesisFE)
+- **Infinite Yield** — by [EdgeIY](https://github.com/EdgeIY)
+- **Energize R6** — by illremember
+
+### 📝 Fonts
+
+- **Starborn** — by Darrell Flood
+- **Minecrafter** — by Madpixel Designs
+- **Matcha Mint** — by its respective creator
+- **OG Roblox** — by its respective creator
 
 ---
 
-## 🔗 Links
+## 💙 Support Nebula Softworks
 
-- 🏠 **Repository**: [infinitescripts-cloud/heavhub](https://github.com/infinitescripts-cloud/heavhub)
-- 🌙 **UI Library**: [Luna Interface Suite](https://github.com/Nebula-Softworks/Luna-Interface-Suite)
+**Nebula Softworks is a small team of 4 developers** who have been building free, open-source tools for the Roblox scripting community since 2024 [reference:2]. Everything they release stays completely free — including Luna, Starlight, and their Nebula Icon Library.
+
+If Surreal Hub's UI has made your experience better, **please consider supporting Nebula Softworks**. Here's how:
+
+### 🌐 Join the Community
+
+The best way to support them is to **join their Discord**. It's where they provide support, discuss new features, and build their products. Every new member helps their community grow [reference:3].
+
+| Platform | Link |
+|---|---|
+| **Discord** | [dsc.gg/nebulasoftworks](https://dsc.gg/nebulasoftworks) |
+| **GitHub** | [github.com/Nebula-Softworks](https://github.com/Nebula-Softworks) |
+| **Website** | [nebulasoftworks.framer.ai](https://nebulasoftworks.framer.ai/) |
+
+### ⭐ Star Their Repos
+
+A simple star goes a long way. It helps their projects get seen by other developers and shows appreciation for the hundreds of hours they've put into Luna, Starlight, and their other tools.
+
+- ⭐ [Star Luna Interface Suite](https://github.com/Nebula-Softworks/Luna-Interface-Suite)
+- ⭐ [Star Starlight Interface Suite](https://github.com/Nebula-Softworks/Starlight-Interface-Suite)
+
+### 📣 Share Their Work
+
+If you're in other Roblox scripting communities, mention Luna or Starlight when someone asks about UI libraries. Word of mouth is how small teams like Nebula Softworks grow.
+
+### 🛠️ Report Bugs & Suggest Features
+
+Found a bug in Luna? Have an idea for Starlight? Open an issue on their GitHub or post in their Discord. They actually read and respond to feedback — that's rare.
+
+### 📬 Get in Touch
+
+Nebula Softworks' team members are reachable through their support email and Discord. Whether you want to say thanks, apply to join the team, or commission a custom project, they're open to hearing from you [reference:4].
+
+---
+
+> **"Extending Beyond the Stars."**
+>
+> — Nebula Softworks
 
 ---
 
